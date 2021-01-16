@@ -1,0 +1,7 @@
+C:\xampp\htdocs\practicas_TDD\PricingService\bin\Debug\PricingService.exe.config
+C:\xampp\htdocs\practicas_TDD\PricingService\bin\Debug\PricingService.exe
+C:\xampp\htdocs\practicas_TDD\PricingService\bin\Debug\PricingService.pdb
+C:\xampp\htdocs\practicas_TDD\PricingService\obj\Debug\PricingService.csprojAssemblyReference.cache
+C:\xampp\htdocs\practicas_TDD\PricingService\obj\Debug\PricingService.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\practicas_TDD\PricingService\obj\Debug\PricingService.exe
+C:\xampp\htdocs\practicas_TDD\PricingService\obj\Debug\PricingService.pdb
